@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=StarDrawer
+comment1.params=window\ starColor\ xPos\ yPos
+comment1.target=void\ paintStar(java.awt.Graphics,\ java.awt.Color,\ int,\ int)
+numComments=2

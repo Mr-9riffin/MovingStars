@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StarAnimation
+comment1.params=
+comment1.target=StarAnimation()
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=window
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4
